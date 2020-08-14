@@ -25,3 +25,8 @@ span {
   color: Gray;
   font-size: 21px;
 }
+
+#footer {
+  text-align: right;
+  padding-bottom: 12px;
+}
