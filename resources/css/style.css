@@ -19,5 +19,9 @@ h2 {
 
 a {
   color: aquamarine;
-  padding: 10px;
+}
+
+span {
+  color: Gray;
+  font-size: 21px;
 }
